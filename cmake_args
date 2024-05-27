@@ -1,0 +1,5 @@
+-G Ninja
+-DJSON_BuildTests:BOOL=ON
+-DJSON_Install:BOOL=ON
+-DJSON_MultipleHeaders:BOOL=ON
+-DJSON_TestDataDirectory:STRING=./json_test_data
